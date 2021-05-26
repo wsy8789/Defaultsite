@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'BGITEST01'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3b1cc22af91f42bbb8fb1cf02bca9634 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_586973505d6d4b009b928987e0a2d041 }}
         package: .
